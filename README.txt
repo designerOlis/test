@@ -1,2 +1,4 @@
-That is my first editing.
-This is my secondary editiong.
+My first editing will be past.
+This was my secondary editing.
+
+These are my Third editing.
